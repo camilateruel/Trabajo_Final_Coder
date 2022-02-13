@@ -5,6 +5,14 @@ El dataset escogido para la presentación de este proyecto contiene datos de pac
 University" en California. 
 Este es un dataset de tipo multivariado lo cual significa que nos proveera con gran variedad de variables matemáticas que deberán ser analizadas.
 
+# Objetivo del proyecto
+
+*   Selección de un dataset al cual se pueda aplicar un analisis exhaustivo y aplicar modelos estadisticos para predecir en base a una variable target.
+*   Realizar correcta lectura de los datos, incluyendo limpieza de datos y detectar  outliers.
+*   Realizar analsis univariado, bivariado y multivariado del dataset
+*   Determinar si el dataset cumple con los requistos para el desarrollo del proyecto final
+*   Finalmente lograr responder las preguntas del problema principal planteado
+
 # Descripción del Dataset
 
 Segun la documentación, este dataset tiene 13 columnas:
