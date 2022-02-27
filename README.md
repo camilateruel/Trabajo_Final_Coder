@@ -1,6 +1,6 @@
 # Trabajo_Final_Coder
 ## Tema: Enfermedades del corazón
-## Carlos Medina - Camila Teruel
+### Carlos Medina - Camila Teruel
 
 El dataset escogido para la presentación de este proyecto contiene datos de pacientes los cuales pueden tener o no predisposición a enfermdades cardíacas. Los datos fueron recolctados por la universidad "Donald Bren School of Information and Computer Sciences
 University" en California. 
